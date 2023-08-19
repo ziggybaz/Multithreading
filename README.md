@@ -1,4 +1,4 @@
-### Implementing multithreading in node.js for CPU intensive operations.
+# Implementing multithreading in node.js for CPU intensive operations.
 
 ### For further reading visit the node documentation.
 
